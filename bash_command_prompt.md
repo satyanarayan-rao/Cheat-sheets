@@ -7,4 +7,4 @@
 * Jumb word by word (**you may have to change the setting of terminal to recognize Alt**)
 	+ forward: Alt + f
 	+ Reverse: Alt + b 
-
+* Exit the terminal: Crtl + d
